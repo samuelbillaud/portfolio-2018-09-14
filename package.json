@@ -8,7 +8,9 @@
     "hyperapp": "^1.2.9",
     "prettier": "^1.14.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.26.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "parcel src/index.html",
