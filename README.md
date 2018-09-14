@@ -1,5 +1,5 @@
-# hyperapp-parcel-prettier-starter
-An hyperapp starter with Parcel &amp; Prettier
+# Portfolio 2018-09-14
+A new portfolio with Hyperapp
 
 ## Installation
 

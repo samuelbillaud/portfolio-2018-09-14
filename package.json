@@ -1,8 +1,8 @@
 {
-  "name": "hyperapp-parcel-prettier-starter",
+  "name": "portfolio-2018-09-14",
   "version": "1.0.0",
-  "description": "An hyperapp starter with Parcel &amp; Prettier",
-  "main": "index.js",
+  "description": "A new portfolio with Hyperapp",
+  "main": "src/index.js",
   "dependencies": {
     "babel-preset-react": "^6.24.1",
     "hyperapp": "^1.2.9",
@@ -11,8 +11,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "parcel index.html",
-    "build": "parcel build index.html --public-url ./"
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url ./"
   },
   "repository": {
     "type": "git",
