@@ -1,0 +1,25 @@
+{
+  "name": "hyperapp-parcel-prettier-starter",
+  "version": "1.0.0",
+  "description": "An hyperapp starter with Parcel &amp; Prettier",
+  "main": "index.js",
+  "dependencies": {
+    "prettier": "^1.14.2",
+    "hyperapp": "^1.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelbillaud/hyperapp-parcel-prettier-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelbillaud/hyperapp-parcel-prettier-starter/issues"
+  },
+  "homepage": "https://github.com/samuelbillaud/hyperapp-parcel-prettier-starter#readme"
+}
